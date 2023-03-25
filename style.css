@@ -1,0 +1,107 @@
+@charset "utf-8";
+.container  {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #FDF5E6;
+  
+}
+header h1  {
+    color: #704214;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 40px;
+    border-bottom-color: #FF9900;
+    border-bottom-style: ridge;
+    width: 600px;
+}
+
+
+header h3 a:link  {
+    text-decoration: none;
+    color: #BC8F8F;
+    margin-left: 20px;
+}
+.戚風蛋糕img {
+    background-image: url(%E6%88%9A%E9%A2%A8%E8%9B%8B%E7%B3%95.jpg);
+    width: 450px;
+    height: 300px;
+}
+
+
+
+header h3 a:visited {
+    color: #E6C3C3;
+}
+main article h2 {
+    padding-left: 20px;
+    background-color: #A16B47;
+    color: #FFEBCD;
+    font-size: 30px;
+    border-radius: 80px 120px 120px 80px;
+}
+main article h3 {
+    font-size: 25px;
+    color: #4D1F00;
+    margin-left: 20px;
+    border-bottom: medium inset #FFE5B4;
+    width: 300px;
+}
+main article iframe {
+    padding-left: 200px;
+
+}
+footer {
+    line-height: normal;
+    font-size: 10px;
+    text-decoration: none;
+    border-top-style: ridge;
+    border-top-color: #FF9900;
+    width: 700px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+
+}
+
+
+main article ul {
+    color: #A0522D;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    width: 430px;
+    background-color: #FFDAB9;
+}
+main article ol {
+    margin-left: 20px;
+    font-size: 20px;
+    border-left: medium ridge #FFE4E1;
+    margin-right: 20px;
+}
+
+
+
+
+
+header h3 a:hover {
+    text-decoration: overline;
+    font-size: large;
+    color: #F08080;
+    text-shadow: 0px 0px 17px #CD5C5C;
+}
+
+
+
+
+
+main article p {
+    color: #4D3900;
+    margin-left: 20px;
+    border: 2px outset #FFB366;
+    margin-right: 20px;
+    font-size: 20px;
+}
+header {
+    padding-left: 20px;
+}
